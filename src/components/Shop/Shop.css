@@ -1,0 +1,18 @@
+.shop{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    margin: 40px;
+}
+.players{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+    margin: 0 20px 0 100px;
+}
+.cart{
+    background-color: rgb(243, 243, 243);
+    padding: 10px;
+    height: 100vh;
+    position: sticky;
+    top: 0;
+}
