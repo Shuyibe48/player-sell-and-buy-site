@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "name": "Lionel Messi",
+        "Position": "Striker",
+        "price": 420,
+        "ratings": 5,
+        "img": "https://img.a.transfermarkt.technology/portrait/big/28003-1671435885.jpg?lm=1"
+    },
+    {
+        "id": "2",
+        "name": "Neymar Jr",
+        "Position": "Striker",
+        "price": 377,
+        "ratings": 5,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRldHcnDz1z8As4HSr_vU3jlNxt1wv0pBGTfE4EqMM7eA&s"
+    },
+    {
+        "id": "3",
+        "name": "Kylian Mbappe",
+        "Position": "Striker",
+        "price": 301,
+        "ratings": 5,
+        "img": "https://s.hs-data.com/bilder/spieler/gross/284095.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Julian Alvarez",
+        "Position": "Striker",
+        "price": 163,
+        "ratings": 4.3,
+        "img": "https://www.mancity.com/meta/media/ptfh0hca/julian-alvarez.png"
+    },
+    {
+        "id": "5",
+        "name": "Erling Haaland",
+        "Position": "Striker",
+        "price": 320,
+        "ratings": 4.7,
+        "img": "https://b.fssta.com/uploads/application/soccer/headshots/66617.vresize.350.350.medium.77.png"
+    },
+    {
+        "id": "6",
+        "name": "Phil Foden",
+        "Position": "Mid Fielder",
+        "price": 145,
+        "ratings": 4.5,
+        "img": "https://i2-prod.manchestereveningnews.co.uk/incoming/article25976810.ece/ALTERNATES/s1200c/0_foden.jpg"
+    },
+    {
+        "id": "7",
+        "name": "Kevin De Bruyne",
+        "Position": "Mid Fielder",
+        "price": 286,
+        "ratings": 4.6,
+        "img": "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcTcubeBYDmrg2SmNNbRcNMkvB0xM8IznYyMhHQ_-TxE98F3GvG2VX6xdaksYqhyxcKG3ebgppOIn2IvPy0"
+    },
+    {
+        "id": "8",
+        "name": "Riyad Mahrez",
+        "Position": "Striker",
+        "price": 363,
+        "ratings": 5,
+        "img": "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcTjEhA3IqntToAXDIADzN7ama3qcPdtqTKsgsSTJGoJlH0WG649WLvx_4dn1xZAl4jxSL7jrKw9D5el5rE"
+    },
+    {
+        "id": "9",
+        "name": "Bernardo Silva",
+        "Position": "Striker",
+        "price": 289,
+        "ratings": 4.8,
+        "img": "http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcQ6hLeMcOPposlENjo-QMTWrM1uDapgbMdFOd12gjNJXm21lB3Ly4d6EDavvr4Os47op4Vi6KFyDpsgqFA"
+    }
+]
